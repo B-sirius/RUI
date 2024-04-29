@@ -1,0 +1,9 @@
+.popover-content {
+  position: fixed;
+  color: hsl(297, 56%, 60%);
+  background-color: rgb(251, 229, 250);
+  border: 2px solid hsl(297, 56%, 60%);
+  padding: 2px;
+  border-radius: 2px;
+  font-size: 12px;
+}
